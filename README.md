@@ -1,3 +1,4 @@
 # dualbell
-Yeah, dualbell
-This will eventually have a documentation
+The code requires the following libraries:
+1.matplotlib.pylot
+2.numpy
